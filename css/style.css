@@ -11302,3 +11302,7 @@ button#client-popup-btn {
 .insta-vi img{
 	border-radius: 7%;
 }
+.insta-video video {
+    height: 409px;
+    width: 100%;
+}
